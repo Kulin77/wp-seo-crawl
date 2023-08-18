@@ -1,0 +1,95 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Seo Crawl\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-08-18 07:47+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.4; wp-6.3\n"
+"X-Domain: wsc"
+
+#. Description of the plugin
+msgid "A crawl plugin to Extract all internal hyperlinks."
+msgstr ""
+
+#: includes/actions/class-actions.php:91
+msgid "Content not found in the website. Please try again later."
+msgstr ""
+
+#: includes/actions/class-actions.php:199
+msgid "Data not inserted."
+msgstr ""
+
+#: includes/actions/class-actions.php:124
+msgid ""
+"Data Retrieval Successful. Internal hyperlinks has been successfully fetched."
+msgstr ""
+
+#: includes/actions/class-actions.php:101
+msgid "DOMDocument extension is required. Please check server configuration."
+msgstr ""
+
+#: includes/actions/class-actions.php:260
+msgid "Facing issue while creating homepage.html file."
+msgstr ""
+
+#: includes/actions/class-actions.php:233
+msgid "Facing issue while creating Sitemap.html file."
+msgstr ""
+
+#: includes/actions/class-actions.php:80
+msgid "Failed to load the website. Please try again later."
+msgstr ""
+
+#: includes/templates/wsc-option-page.php:25
+msgid "Generate"
+msgstr ""
+
+#: includes/templates/wsc-option-page.php:23
+msgid "Generate repost for internal hyperlinks"
+msgstr ""
+
+#: includes/actions/class-actions.php:267
+msgid "homepage.html file is created."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://github.com/rids1207"
+msgstr ""
+
+#: includes/templates/wsc-option-page.php:37
+msgid "Internal hyperlinks"
+msgstr ""
+
+#: includes/actions/class-actions.php:112
+msgid "No internal hyperlinks found. Please try again later."
+msgstr ""
+
+#: includes/templates/wsc-option-page.php:36
+msgid "No."
+msgstr ""
+
+#: includes/actions/class-actions.php:131
+msgid "Oops, Something Went Wrong."
+msgstr ""
+
+#. Author of the plugin
+msgid "Riddhish"
+msgstr ""
+
+#: includes/admin/class-admin.php:62 includes/admin/class-admin.php:63
+msgid "Seo Crawl"
+msgstr ""
+
+#. Name of the plugin
+#: includes/templates/wsc-option-page.php:16
+msgid "WP Seo Crawl"
+msgstr ""
